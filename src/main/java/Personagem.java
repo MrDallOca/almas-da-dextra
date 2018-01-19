@@ -1,6 +1,8 @@
 public class Personagem {
     int vida;
     int forca;
+    //int agilidade;
+    //int energia;
 
     public Personagem(int vida, int forca) {
         this.setVida(vida);
